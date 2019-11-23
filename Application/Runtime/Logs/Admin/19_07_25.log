@@ -1,0 +1,1715 @@
+[ 2019-07-25T01:21:56+08:00 ] 101.91.62.11 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001064s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001083s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000023s ]
+
+[ 2019-07-25T01:55:58+08:00 ] 123.151.144.37 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+NOTIC: [8] Undefined index: validate /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = '11111111' AND `password` = 'aaaaaaaa' AND `status` = 0  [ RunTime:0.0001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 181 行.
+
+[ 2019-07-25T01:55:58+08:00 ] 123.151.144.37 /bsys/index.php/Admin/Login/999tst999loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000025s ]
+ERR: 非法操作:999tst999loginVerify
+
+[ 2019-07-25T03:13:05+08:00 ] 122.228.19.80 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000950s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000964s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000034s ]
+
+[ 2019-07-25T05:49:05+08:00 ] 58.251.121.186 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001157s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001176s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000031s ]
+
+[ 2019-07-25T07:18:31+08:00 ] 180.163.220.67 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001185s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000036s ]
+
+[ 2019-07-25T08:47:32+08:00 ] 110.87.188.249 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001158s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001175s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000033s ]
+
+[ 2019-07-25T08:47:36+08:00 ] 110.87.188.249 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000949s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000966s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000024s ]
+
+[ 2019-07-25T08:48:06+08:00 ] 110.87.188.249 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000026s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001049s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001066s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000030s ]
+
+[ 2019-07-25T08:49:08+08:00 ] 110.87.188.249 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000030s ]
+
+[ 2019-07-25T09:08:25+08:00 ] 42.236.10.117 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001017s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000024s ]
+
+[ 2019-07-25T09:08:26+08:00 ] 42.236.10.125 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001135s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001154s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000014s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000026s ]
+
+[ 2019-07-25T09:37:01+08:00 ] 59.36.119.227 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001089s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000014s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000021s ]
+
+[ 2019-07-25T10:49:26+08:00 ] 3.113.248.54 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001181s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000033s ]
+
+[ 2019-07-25T11:26:23+08:00 ] 180.163.220.66 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001220s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001239s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000014s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000021s ]
+
+[ 2019-07-25T11:26:23+08:00 ] 180.163.220.66 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001040s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001058s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000018s ]
+
+[ 2019-07-25T11:27:11+08:00 ] 77.247.110.186 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000954s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000972s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000033s ]
+
+[ 2019-07-25T18:28:57+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Manage/getTableData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [8] Undefined index: table /var/www/html/bsys/Application/Admin/Controller/ManageController.class.php 第 39 行.
+SQL: SELECT * FROM `users_easyui` WHERE ( status=0 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: table /var/www/html/bsys/Application/Admin/Controller/ManageController.class.php 第 40 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `users_easyui` WHERE ( status=0 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-07-25T18:28:57+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Manage/999tst999getTableData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+ERR: 非法操作:999tst999getTableData
+
+[ 2019-07-25T18:28:58+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001126s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001155s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000023s ]
+
+[ 2019-07-25T18:28:58+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Manage/articleManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000845s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000029s ]
+
+[ 2019-07-25T18:28:58+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Manage/getTableData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+ERR: 1146:Table 'blog.article_easyui' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `article_easyui`
+ERR: 1146:Table 'blog.article_easyui' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `article_easyui`
+
+[ 2019-07-25T18:28:58+08:00 ] 123.151.144.38 /bsys/index.php/Admin/999tst999Login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+ERR: 无法加载控制器:999tst999Login
+
+[ 2019-07-25T18:28:58+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Manage/999tst999articleManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000025s ]
+ERR: 非法操作:999tst999articleManage
+
+[ 2019-07-25T18:28:58+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Manage/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000021s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000619s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000636s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000010s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000016s ]
+
+[ 2019-07-25T18:28:58+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000026s ]
+NOTIC: [8] Undefined index: validate /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = '11111111' AND `password` = 'aaaaaaaa' AND `status` = 0  [ RunTime:0.0001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 181 行.
+
+[ 2019-07-25T18:28:58+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002633s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002661s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003645s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003663s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000018s ]
+
+[ 2019-07-25T18:28:58+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Manage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001516s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001534s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000040s ]
+
+[ 2019-07-25T18:28:58+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Manage/999tst999main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+ERR: 非法操作:999tst999main
+
+[ 2019-07-25T18:28:58+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Login/999tst999loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+ERR: 非法操作:999tst999loginVerify
+
+[ 2019-07-25T18:28:58+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Manage/uploadManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000048s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000722s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000742s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000010s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000017s ]
+
+[ 2019-07-25T18:28:58+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Manage/999tst999userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+ERR: 非法操作:999tst999userManage
+
+[ 2019-07-25T18:28:58+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Login/999tst999index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+ERR: 非法操作:999tst999index
+
+[ 2019-07-25T18:28:58+08:00 ] 123.151.144.38 /bsys/index.php/Admin/Manage/999tst999uploadManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+ERR: 非法操作:999tst999uploadManage
+
+[ 2019-07-25T20:30:06+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001157s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000033s ]
+
+[ 2019-07-25T20:32:41+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001173s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001194s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000015s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000023s ]
+
+[ 2019-07-25T20:32:52+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001015s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001030s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000018s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000028s ]
+
+[ 2019-07-25T21:06:14+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000982s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000996s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000033s ]
+
+[ 2019-07-25T21:06:27+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000981s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000995s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000014s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000021s ]
+
+[ 2019-07-25T21:07:04+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000991s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000033s ]
+
+[ 2019-07-25T21:13:30+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000025s ]
+
+[ 2019-07-25T21:14:49+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001048s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000013s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000021s ]
+
+[ 2019-07-25T21:15:14+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000962s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000983s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000025s ]
+
+[ 2019-07-25T21:15:56+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000969s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000012s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000020s ]
+
+[ 2019-07-25T21:16:26+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001339s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001360s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000037s ]
+
+[ 2019-07-25T21:19:40+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001016s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000014s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000021s ]
+
+[ 2019-07-25T21:20:11+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001487s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000106s ]
+
+[ 2019-07-25T21:20:59+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000985s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000039s ]
+
+[ 2019-07-25T21:21:11+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001019s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000014s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000021s ]
+
+[ 2019-07-25T21:23:58+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000978s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000995s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000035s ]
+
+[ 2019-07-25T21:24:09+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000965s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000979s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000013s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000020s ]
+
+[ 2019-07-25T21:24:42+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+NOTIC: [8] Undefined index: validate /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = '11111111' AND `password` = 'aaaaaaaa' AND `status` = 0  [ RunTime:0.0001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 181 行.
+
+[ 2019-07-25T21:24:43+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001423s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001439s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000055s ]
+
+[ 2019-07-25T21:24:43+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Manage/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000721s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000741s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000028s ]
+
+[ 2019-07-25T21:30:59+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:31:35+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:33:22+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:33:54+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:34:24+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:35:44+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:36:14+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:38:13+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:38:43+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001114s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001132s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000040s ]
+
+[ 2019-07-25T21:39:03+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+NOTIC: [8] Undefined index: validate /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = '11111111' AND `password` = 'aaaaaaaa' AND `status` = 0  [ RunTime:0.0001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 181 行.
+
+[ 2019-07-25T21:39:04+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001963s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001988s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000054s ]
+
+[ 2019-07-25T21:39:04+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Manage/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000034s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000615s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000012s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000020s ]
+
+[ 2019-07-25T21:42:15+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:43:25+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:44:56+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:48:44+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:48:54+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:49:23+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:50:10+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001087s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001107s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000031s ]
+
+[ 2019-07-25T21:50:23+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+NOTIC: [8] Undefined index: validate /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = '11111111' AND `password` = 'aaaaaaaa' AND `status` = 0  [ RunTime:0.0001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 181 行.
+
+[ 2019-07-25T21:50:23+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002093s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002120s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000111s ]
+
+[ 2019-07-25T21:50:24+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Manage/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000913s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000936s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000029s ]
+
+[ 2019-07-25T21:52:22+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:52:32+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:53:58+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:54:36+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T21:55:16+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001138s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000029s ]
+
+[ 2019-07-25T21:55:28+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+NOTIC: [8] Undefined index: validate /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = '11111111' AND `password` = 'aaaaaaaa' AND `status` = 0  [ RunTime:0.0001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 181 行.
+
+[ 2019-07-25T21:55:29+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001430s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001450s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000034s ]
+
+[ 2019-07-25T21:55:29+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Manage/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000034s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000612s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000628s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000018s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000026s ]
+
+[ 2019-07-25T23:02:02+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T23:03:15+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T23:03:22+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T23:04:06+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T23:04:23+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T23:04:39+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T23:05:06+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T23:06:40+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T23:07:16+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T23:08:28+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T23:08:55+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T23:10:05+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T23:11:14+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T23:23:16+08:00 ] 59.36.119.227 /bsys/index.php/Admin/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001169s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001187s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000035s ]
+
+[ 2019-07-25T23:24:13+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T23:26:58+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+NOTIC: [8] Undefined index: validate /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 166 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = null AND `password` = null AND `status` = 0  [ RunTime:0.0001s ]
+
+[ 2019-07-25T23:29:04+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001012s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000015s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000021s ]
+
+[ 2019-07-25T23:29:19+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Undefined index: validate /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = '11111111' AND `password` = 'aaaaaaaa' AND `status` = 0  [ RunTime:0.0001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 181 行.
+
+[ 2019-07-25T23:29:19+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001427s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001444s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000033s ]
+
+[ 2019-07-25T23:29:20+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Manage/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000744s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000028s ]
+
+[ 2019-07-25T23:30:38+08:00 ] 220.249.162.13 /bsys/index.php/Admin/Login/loginVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+NOTIC: [8] Undefined index: validate /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/html/bsys/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `users_easyui` WHERE `userName` = '11111111' AND `password` = 'aaaaaaaa' AND `status` = 0  [ RunTime:0.0001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /var/www/html/bsys/Application/Admin/Controller/LoginController.class.php 第 181 行.
+
+[ 2019-07-25T23:54:14+08:00 ] 58.251.121.185 /bsys/index.php/Admin/Manage/999tst999uploadManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+ERR: 非法操作:999tst999uploadManage
+

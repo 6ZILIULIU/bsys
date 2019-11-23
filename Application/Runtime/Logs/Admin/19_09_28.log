@@ -1,0 +1,23 @@
+[ 2019-09-28T20:46:23+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001934s ]
+NOTIC: [8] Undefined index: userName D:\xampp\htdocs\bsys\Application\Admin\Controller\LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined index: userName D:\xampp\htdocs\bsys\Application\Admin\Controller\LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined index: userName D:\xampp\htdocs\bsys\Application\Admin\Controller\LoginController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.017555s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.017604s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076276s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.030491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.030528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010659s ]
+

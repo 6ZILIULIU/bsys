@@ -1,0 +1,48 @@
+[ 2019-10-16T16:59:46+08:00 ] 127.0.0.1 /bsys/upload/hotspot/av1571158997247864.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+ERR: 无法加载模块:Upload
+
+[ 2019-10-16T16:59:47+08:00 ] 127.0.0.1 /bsys/upload/hotspot/av1571158997247864.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001011s ]
+ERR: 无法加载模块:Upload
+
+[ 2019-10-16T17:00:13+08:00 ] 127.0.0.1 /bsys/upload/hotspot/av1571158997247864.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 无法加载模块:Upload
+
+[ 2019-10-16T17:00:13+08:00 ] 127.0.0.1 /bsys/upload/hotspot/av1571158997247864.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 无法加载模块:Upload
+
+[ 2019-10-16T17:00:17+08:00 ] 127.0.0.1 /bsys/upload/hotspot/av1571158997247864.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+ERR: 无法加载模块:Upload
+
+[ 2019-10-16T17:00:17+08:00 ] 127.0.0.1 /bsys/upload/hotspot/av1571158997247864.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001227s ]
+ERR: 无法加载模块:Upload
+
+[ 2019-10-16T17:00:20+08:00 ] 127.0.0.1 /bsys/upload/hotspot/av1571158997247864.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+ERR: 无法加载模块:Upload
+
+[ 2019-10-16T17:00:20+08:00 ] 127.0.0.1 /bsys/upload/hotspot/av1571158997247864.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:Upload
+

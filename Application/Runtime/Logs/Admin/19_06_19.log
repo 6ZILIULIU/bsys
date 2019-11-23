@@ -1,0 +1,576 @@
+[ 2019-06-19T22:19:52+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016883s ]
+ERR: 无法加载控制器:Mailer
+
+[ 2019-06-19T22:20:55+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001348s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.014921s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.014965s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.128827s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.128870s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011475s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016183s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016217s ]
+
+[ 2019-06-19T22:20:58+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001302s ]
+ERR: 无法加载控制器:Mailer
+
+[ 2019-06-19T22:24:08+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001447s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051022s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001180s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001470s ]
+
+[ 2019-06-19T22:24:40+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001357s ]
+ERR: 无法加载控制器:Mailer
+
+[ 2019-06-19T22:25:13+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001012s ]
+ERR: Call to undefined function sendemail()
+
+[ 2019-06-19T22:29:30+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001639s ]
+ERR: Call to undefined function sendemail()
+
+[ 2019-06-19T22:29:31+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001012s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001531s ]
+ERR: Call to undefined function sendemail()
+
+[ 2019-06-19T22:35:41+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001357s ]
+ERR: Call to undefined function sendemail()
+
+[ 2019-06-19T22:42:54+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001444s ]
+ERR: Class 'Common\Mailer\Controller' not found
+
+[ 2019-06-19T22:44:20+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001346s ]
+ERR: Call to undefined function sendemail()
+
+[ 2019-06-19T22:47:51+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001418s ]
+ERR: Call to undefined function sendemail()
+
+[ 2019-06-19T22:47:53+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000999s ]
+ERR: Call to undefined function sendemail()
+
+[ 2019-06-19T22:51:43+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001410s ]
+ERR: Call to undefined function sendemail()
+
+[ 2019-06-19T22:51:44+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+ERR: Call to undefined function sendemail()
+
+[ 2019-06-19T22:52:45+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001313s ]
+ERR: Call to undefined function sendemail()
+
+[ 2019-06-19T22:52:46+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+ERR: Call to undefined function sendemail()
+
+[ 2019-06-19T22:52:58+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+ERR: Call to undefined function sendemail()
+
+[ 2019-06-19T22:56:28+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001493s ]
+ERR: Call to undefined function sendemail()
+
+[ 2019-06-19T23:08:11+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001576s ]
+ERR: Class 'mailer\PHPMailer' not found
+
+[ 2019-06-19T23:12:31+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001364s ]
+ERR: Class 'mailer\PHPMailer' not found
+
+[ 2019-06-19T23:12:32+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+ERR: Class 'mailer\PHPMailer' not found
+
+[ 2019-06-19T23:14:23+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001371s ]
+ERR: Class 'mailer\PHPMailer' not found
+
+[ 2019-06-19T23:18:08+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000942s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001346s ]
+ERR: Class 'mailer\PHPMailer' not found
+
+[ 2019-06-19T23:18:32+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001397s ]
+ERR: Class 'Org\mailer\PHPMailer' not found
+
+[ 2019-06-19T23:21:38+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001388s ]
+ERR: Class 'Org\mailer\PHPMailer' not found
+
+[ 2019-06-19T23:21:40+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+ERR: Class 'Org\mailer\PHPMailer' not found
+
+[ 2019-06-19T23:23:16+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001279s ]
+ERR: Class 'Org\mailer\PHPMailer' not found
+
+[ 2019-06-19T23:30:00+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001439s ]
+ERR: Class 'Mailer\PHPMailer' not found
+
+[ 2019-06-19T23:34:55+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001532s ]
+ERR: Class 'Think\Mailer\PHPMailer' not found
+
+[ 2019-06-19T23:34:57+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+ERR: Class 'Think\Mailer\PHPMailer' not found
+
+[ 2019-06-19T23:38:30+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000925s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002004s ]
+ERR: Class 'Think\Mailer\PHPMailer' not found
+
+[ 2019-06-19T23:39:53+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001381s ]
+ERR: Class 'Mailer\PHPMailer' not found
+
+[ 2019-06-19T23:40:11+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001535s ]
+ERR: Class 'Mailer\PHPMailer' not found
+
+[ 2019-06-19T23:45:19+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001403s ]
+ERR: Class 'Vendor\Mailer\PHPMailer' not found
+
+[ 2019-06-19T23:47:41+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002991s ]
+NOTIC: [8] Constant MEMORY_LIMIT_ON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 19 行.
+NOTIC: [8] Constant THINK_VERSION already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 23 行.
+NOTIC: [8] Constant URL_COMMON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 26 行.
+NOTIC: [8] Constant URL_PATHINFO already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 27 行.
+NOTIC: [8] Constant URL_REWRITE already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 28 行.
+NOTIC: [8] Constant URL_COMPAT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 29 行.
+NOTIC: [8] Constant EXT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 32 行.
+NOTIC: [8] Constant MAGIC_QUOTES_GPC already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 71 行.
+NOTIC: [8] Constant IS_CGI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 73 行.
+NOTIC: [8] Constant IS_WIN already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 74 行.
+NOTIC: [8] Constant IS_CLI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 75 行.
+
+[ 2019-06-19T23:49:48+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001367s ]
+ERR: Class 'Mailer\PHPMailer' not found
+
+[ 2019-06-19T23:50:22+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001311s ]
+ERR: Class 'Mailer\PHPMailer' not found
+
+[ 2019-06-19T23:50:25+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+ERR: Class 'Mailer\PHPMailer' not found
+
+[ 2019-06-19T23:50:52+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+ERR: Class 'Mailer\PHPMailer' not found
+
+[ 2019-06-19T23:50:53+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001009s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002142s ]
+ERR: Class 'Mailer\PHPMailer' not found
+
+[ 2019-06-19T23:51:08+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002322s ]
+NOTIC: [8] Constant MEMORY_LIMIT_ON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 19 行.
+NOTIC: [8] Constant THINK_VERSION already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 23 行.
+NOTIC: [8] Constant URL_COMMON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 26 行.
+NOTIC: [8] Constant URL_PATHINFO already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 27 行.
+NOTIC: [8] Constant URL_REWRITE already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 28 行.
+NOTIC: [8] Constant URL_COMPAT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 29 行.
+NOTIC: [8] Constant EXT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 32 行.
+NOTIC: [8] Constant MAGIC_QUOTES_GPC already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 71 行.
+NOTIC: [8] Constant IS_CGI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 73 行.
+NOTIC: [8] Constant IS_WIN already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 74 行.
+NOTIC: [8] Constant IS_CLI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 75 行.
+
+[ 2019-06-19T23:53:59+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002506s ]
+NOTIC: [8] Constant MEMORY_LIMIT_ON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 19 行.
+NOTIC: [8] Constant THINK_VERSION already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 23 行.
+NOTIC: [8] Constant URL_COMMON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 26 行.
+NOTIC: [8] Constant URL_PATHINFO already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 27 行.
+NOTIC: [8] Constant URL_REWRITE already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 28 行.
+NOTIC: [8] Constant URL_COMPAT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 29 行.
+NOTIC: [8] Constant EXT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 32 行.
+NOTIC: [8] Constant MAGIC_QUOTES_GPC already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 71 行.
+NOTIC: [8] Constant IS_CGI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 73 行.
+NOTIC: [8] Constant IS_WIN already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 74 行.
+NOTIC: [8] Constant IS_CLI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 75 行.
+
+[ 2019-06-19T23:54:35+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002395s ]
+NOTIC: [8] Constant MEMORY_LIMIT_ON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 19 行.
+NOTIC: [8] Constant THINK_VERSION already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 23 行.
+NOTIC: [8] Constant URL_COMMON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 26 行.
+NOTIC: [8] Constant URL_PATHINFO already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 27 行.
+NOTIC: [8] Constant URL_REWRITE already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 28 行.
+NOTIC: [8] Constant URL_COMPAT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 29 行.
+NOTIC: [8] Constant EXT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 32 行.
+NOTIC: [8] Constant MAGIC_QUOTES_GPC already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 71 行.
+NOTIC: [8] Constant IS_CGI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 73 行.
+NOTIC: [8] Constant IS_WIN already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 74 行.
+NOTIC: [8] Constant IS_CLI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 75 行.
+
+[ 2019-06-19T23:56:57+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Userportal/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001345s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002293s ]
+NOTIC: [8] Constant MEMORY_LIMIT_ON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 19 行.
+NOTIC: [8] Constant THINK_VERSION already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 23 行.
+NOTIC: [8] Constant URL_COMMON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 26 行.
+NOTIC: [8] Constant URL_PATHINFO already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 27 行.
+NOTIC: [8] Constant URL_REWRITE already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 28 行.
+NOTIC: [8] Constant URL_COMPAT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 29 行.
+NOTIC: [8] Constant EXT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 32 行.
+NOTIC: [8] Constant MAGIC_QUOTES_GPC already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 71 行.
+NOTIC: [8] Constant IS_CGI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 73 行.
+NOTIC: [8] Constant IS_WIN already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 74 行.
+NOTIC: [8] Constant IS_CLI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 75 行.
+
+[ 2019-06-19T23:58:55+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Userportal/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001481s ]
+ERR: 非法操作:sendEmail
+
+[ 2019-06-19T23:59:03+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001349s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002420s ]
+NOTIC: [8] Constant MEMORY_LIMIT_ON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 19 行.
+NOTIC: [8] Constant THINK_VERSION already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 23 行.
+NOTIC: [8] Constant URL_COMMON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 26 行.
+NOTIC: [8] Constant URL_PATHINFO already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 27 行.
+NOTIC: [8] Constant URL_REWRITE already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 28 行.
+NOTIC: [8] Constant URL_COMPAT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 29 行.
+NOTIC: [8] Constant EXT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 32 行.
+NOTIC: [8] Constant MAGIC_QUOTES_GPC already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 71 行.
+NOTIC: [8] Constant IS_CGI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 73 行.
+NOTIC: [8] Constant IS_WIN already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 74 行.
+NOTIC: [8] Constant IS_CLI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 75 行.
+
+[ 2019-06-19T23:59:10+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002457s ]
+NOTIC: [8] Constant MEMORY_LIMIT_ON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 19 行.
+NOTIC: [8] Constant THINK_VERSION already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 23 行.
+NOTIC: [8] Constant URL_COMMON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 26 行.
+NOTIC: [8] Constant URL_PATHINFO already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 27 行.
+NOTIC: [8] Constant URL_REWRITE already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 28 行.
+NOTIC: [8] Constant URL_COMPAT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 29 行.
+NOTIC: [8] Constant EXT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 32 行.
+NOTIC: [8] Constant MAGIC_QUOTES_GPC already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 71 行.
+NOTIC: [8] Constant IS_CGI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 73 行.
+NOTIC: [8] Constant IS_WIN already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 74 行.
+NOTIC: [8] Constant IS_CLI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 75 行.
+
+[ 2019-06-19T23:59:10+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Userportal/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001343s ]
+ERR: 非法操作:sendEmail
+
+[ 2019-06-19T23:59:24+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Mailer/sendEmail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002106s ]
+NOTIC: [8] Constant MEMORY_LIMIT_ON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 19 行.
+NOTIC: [8] Constant THINK_VERSION already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 23 行.
+NOTIC: [8] Constant URL_COMMON already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 26 行.
+NOTIC: [8] Constant URL_PATHINFO already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 27 行.
+NOTIC: [8] Constant URL_REWRITE already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 28 行.
+NOTIC: [8] Constant URL_COMPAT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 29 行.
+NOTIC: [8] Constant EXT already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 32 行.
+NOTIC: [8] Constant MAGIC_QUOTES_GPC already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 71 行.
+NOTIC: [8] Constant IS_CGI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 73 行.
+NOTIC: [8] Constant IS_WIN already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 74 行.
+NOTIC: [8] Constant IS_CLI already defined D:\xampp\htdocs\bsys\ThinkPHP\ThinkPHP.php 第 75 行.
+

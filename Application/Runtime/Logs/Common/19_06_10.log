@@ -1,0 +1,66 @@
+[ 2019-06-10T20:14:43+08:00 ] 127.0.0.1 /bsys/index.php/Application/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+ERR: 无法加载模块:Application
+
+[ 2019-06-10T20:29:02+08:00 ] 127.0.0.1 /bsys/Publicjquery-easyui-1.7.0/themes/default/easyui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+ERR: 无法加载模块:Publicjquery-easyui-1.7.0
+
+[ 2019-06-10T20:29:02+08:00 ] 127.0.0.1 /bsys/Publicjquery-easyui-1.7.0/themes/icon.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001074s ]
+ERR: 无法加载模块:Publicjquery-easyui-1.7.0
+
+[ 2019-06-10T20:29:02+08:00 ] 127.0.0.1 /bsys/Publicjquery-easyui-1.7.0/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001211s ]
+ERR: 无法加载模块:Publicjquery-easyui-1.7.0
+
+[ 2019-06-10T20:29:02+08:00 ] 127.0.0.1 /bsys/Publicjquery-easyui-1.7.0/themes/color.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+ERR: 无法加载模块:Publicjquery-easyui-1.7.0
+
+[ 2019-06-10T20:29:02+08:00 ] 127.0.0.1 /bsys/Publicstatic/css/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001254s ]
+ERR: 无法加载模块:Publicstatic
+
+[ 2019-06-10T20:29:02+08:00 ] 127.0.0.1 /bsys/Publicjquery-easyui-1.7.0/jquery.easyui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+ERR: 无法加载模块:Publicjquery-easyui-1.7.0
+
+[ 2019-06-10T20:29:13+08:00 ] 127.0.0.1 /bsys/Publicjquery-easyui-1.7.0/themes/icon.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+ERR: 无法加载模块:Publicjquery-easyui-1.7.0
+
+[ 2019-06-10T20:29:13+08:00 ] 127.0.0.1 /bsys/Publicjquery-easyui-1.7.0/themes/default/easyui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+ERR: 无法加载模块:Publicjquery-easyui-1.7.0
+
+[ 2019-06-10T20:29:13+08:00 ] 127.0.0.1 /bsys/Publicstatic/css/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+ERR: 无法加载模块:Publicstatic
+
+[ 2019-06-10T20:29:13+08:00 ] 127.0.0.1 /bsys/Publicjquery-easyui-1.7.0/themes/color.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+ERR: 无法加载模块:Publicjquery-easyui-1.7.0
+

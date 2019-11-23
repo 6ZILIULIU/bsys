@@ -1,0 +1,48 @@
+[ 2019-11-04T22:00:13+08:00 ] 127.0.0.1 /bsys/index.php/Index/hotspot/my_video.mp4
+ERR: 非法操作:my_video.mp4
+
+[ 2019-11-04T22:00:14+08:00 ] 127.0.0.1 /bsys/index.php/Index/hotspot/my_video.mp4
+ERR: 非法操作:my_video.mp4
+
+[ 2019-11-04T22:00:21+08:00 ] 127.0.0.1 /bsys/index.php/Index/hotspot/
+ERR: 非法操作:index
+
+[ 2019-11-04T22:00:35+08:00 ] 127.0.0.1 /bsys/Index/hotspot/
+ERR: 非法操作:index
+
+[ 2019-11-04T22:05:14+08:00 ] 127.0.0.1 /bsys/index.php/Index/Hotspot/list
+ERR: 无法加载控制器:Index
+
+[ 2019-11-04T22:05:30+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Login/index
+ERR: 无法加载控制器:Admin
+
+[ 2019-11-04T22:05:31+08:00 ] 127.0.0.1 /bsys/index.php/Admin/Login/index
+ERR: 无法加载控制器:Admin
+
+[ 2019-11-04T22:10:59+08:00 ] 127.0.0.1 /bsys/Index/Hotspot/list.htm
+ERR: 非法操作:list.htm
+
+[ 2019-11-04T22:14:17+08:00 ] 127.0.0.1 /bsys/index.php/Index/hotspot/my_video.mp4
+ERR: 非法操作:my_video.mp4
+
+[ 2019-11-04T22:14:17+08:00 ] 127.0.0.1 /bsys/index.php/Index/hotspot/my_video.mp4
+ERR: 非法操作:my_video.mp4
+
+[ 2019-11-04T22:17:44+08:00 ] 127.0.0.1 /bsys/index.php/Index/hotspot/my_video.mp4
+ERR: 非法操作:my_video.mp4
+
+[ 2019-11-04T22:17:44+08:00 ] 127.0.0.1 /bsys/index.php/Index/hotspot/my_video.mp4
+ERR: 非法操作:my_video.mp4
+
+[ 2019-11-04T22:17:54+08:00 ] 127.0.0.1 /bsys/index.php/Index/hotspot/my_video.mp4
+ERR: 非法操作:my_video.mp4
+
+[ 2019-11-04T22:17:54+08:00 ] 127.0.0.1 /bsys/index.php/Index/hotspot/my_video.mp4
+ERR: 非法操作:my_video.mp4
+
+[ 2019-11-04T22:17:59+08:00 ] 127.0.0.1 /bsys/index.php/Index/hotspot/my_video.mp4
+ERR: 非法操作:my_video.mp4
+
+[ 2019-11-04T22:17:59+08:00 ] 127.0.0.1 /bsys/index.php/Index/hotspot/my_video.mp4
+ERR: 非法操作:my_video.mp4
+
